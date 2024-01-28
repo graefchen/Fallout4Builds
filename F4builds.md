@@ -3,7 +3,7 @@
 1. Femme Fatale, Robot man, The Hermit, Mad Woman
 2. Special Ops, The Empress, Armored Maniac, General Artillery
 3. The Tribal Chief, Vagabond / Nomad, Revered Mother, Metal Bitch
-4. *nil*
+4. _empty_
 
 | Name              | Sex    | Faction              | Armor                  | Weapon              | Playstyle |
 | ----------------- | ------ | -------------------- | ---------------------- | ------------------- | --------- |
@@ -19,7 +19,7 @@
 | Vagabond / Nomad  | Male   | Railroad             | Armor Mashup           | Rifles              | Loud      |
 | Reverend Mother   | Female | Minuteman            | Shadowed Leather Armor | Rifles              | Stealth   |
 | Metal Bitch       | Female | Brotherhood of Steel | Metal Armor            | Rifles and Shotguns | Loud      |
-| ???               | ???    | ???                  | ???                    | ???                 | ???       |
-| ???               | ???    | ???                  | ???                    | ???                 | ???       |
-| ???               | ???    | ???                  | ???                    | ???                 | ???       |
-| ???               | ???    | ???                  | ???                    | ???                 | ???       |
+| ???               | Female | Institute            | ???                    | ???                 | ???       |
+| ???               | Male   | Railroad             | ???                    | ???                 | ???       |
+| ???               | Female | Minuteman            | ???                    | ???                 | ???       |
+| ???               | Male   | Brotherhood of Steel | ???                    | ???                 | ???       |
