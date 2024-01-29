@@ -16,5 +16,3 @@
 | Armored Maniac    | Female | Railroad             | Power Armor            | Unarmed             | Loud      |
 | General Artillery | Male   | Minuteman            | Power Armor            | Sniper              | Loud      |
 | Vagabond / Nomad  | Male   | Railroad             | Armor Mashup           | Rifles              | Loud      |
-| Reverend Mother   | Female | Minuteman            | Shadowed Leather Armor | Rifles              | Stealth   |
-| Metal Bitch       | Female | Brotherhood of Steel | Metal Armor            | Rifles and Shotguns | Loud      |
