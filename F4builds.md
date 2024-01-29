@@ -1,8 +1,4 @@
-# The Batches:
-
-1. Femme Fatale, Robot man, The Hermit, Mad Woman
-2. Special Ops, The Empress, Armored Maniac, General Artillery
-3. The Tribal Chief, Vagabond / Nomad
+# The Builds:
 
 | Name              | Sex    | Faction              | Armor                  | Weapon              | Playstyle |
 | ----------------- | ------ | -------------------- | ---------------------- | ------------------- | --------- |
