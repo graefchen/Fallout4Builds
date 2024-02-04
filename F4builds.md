@@ -12,4 +12,4 @@
 | Armored Maniac    | Female | Railroad             | Power Armor           | Unarmed           | Loud      |
 | General Artillery | Male   | Minuteman            | Power Armor           | Sniper            | Loud      |
 | Vagabond / Nomad  | Male   | Railroad             | Armor Mashup          | Rifles            | Loud      |
-| Sweetheart        | Female | Minuteman            | Armor Mashup          | Rifles           | Loud      |
+| Sweetheart        | Female | Minuteman            | Armor Mashup          | Rifles            | Loud      |
