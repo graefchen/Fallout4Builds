@@ -9,12 +9,12 @@ Factions: Minuteman
 * Agility: 1
 * Luck:  min 2
 
-possible starting stats: 
-* S: 3
+possible starting stats:
+* S: 6
 * P: 5
 * E: 1
 * C: 7 + Book
-* I: 9
+* I: 6
 * A: 1
 * L: 2
 Weapons: Sniper/Granades
