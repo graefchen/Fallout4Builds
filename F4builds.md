@@ -13,3 +13,5 @@
 | General Artillery | Male   | Minuteman            | Power Armor           | Sniper            | Loud      |
 | Vagabond / Nomad  | Male   | Railroad             | Armor Mashup          | Rifles            | Loud      |
 | Sweetheart        | Female | Minuteman            | Armor Mashup          | Rifles            | Loud      |
+| Knight            | Male   | Brotherhood of Steel | Metal Armor           | Melee             | Loud      |
+| Vault Girl        | Female | Institute            | Vault/Leather Mashup  | Pistol            | Loud      |
