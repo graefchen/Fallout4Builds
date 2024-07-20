@@ -11,7 +11,7 @@
 | Name              | Sex    | Faction              | Armor                  | Weapon            | Playstyle |
 | ----------------- | ------ | -------------------- | ---------------------- | ----------------- | --------- |
 | The Mother        | Female | Minuteman            | Power Armor            | Rifle             | Loud      |
-| Survivor          | Male   | Railroad             | Leather Armor          | Supressed Rifle   | Stealth   |
+| Survivor          | Male   | Railroad             | Shadowed Combat Armor  | Supressed Rifle   | Stealth   |
 | Paladin           | Female | Institute            | Power Armor            | Rifle             | Loud      |
 | The Tribes Chief  | Male   | Institute            | Leather Armor          | Supressed Sniper  | Stealth   |
 | Femme Fatale      | Female | Railroad             | Ballistic Clothes      | Supressed Pistols | Stealth   |
