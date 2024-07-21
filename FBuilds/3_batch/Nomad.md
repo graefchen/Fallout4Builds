@@ -1,4 +1,4 @@
-# Vagabond / Nomad - M
+# Nomad - M
 
 Factions: Railroad
 * Strength: min 6
