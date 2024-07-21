@@ -29,4 +29,4 @@
 | Gunner            | Male   | Railroad             | Metal Armor            | Heavy Weapons     | Loud      |
 | Reverend Mother   | Female | Minuteman            | Shadowed Leather Armor | Supressed Rifles  | Stealth   |
 | Metal Bitch       | Female | Brotherhood of Steel | Power Armor            | Rifles            | Loud      |
-| ???               | ???    | ???                  | ???                    | ???               | ???       |
+| ???               | Male   | Institute            | ???                    | ???               | ???       |
