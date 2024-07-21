@@ -1,6 +1,6 @@
 # Metal Bitch - F
 
-Factions:
+Factions: Brotherhood of Steel
 - Strength: 3
 - Perception: min 2
 - Endurance: 1

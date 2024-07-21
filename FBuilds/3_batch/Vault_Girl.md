@@ -13,7 +13,7 @@ possible starting stats:
 - S: 2
 - P: 4
 - E: 5 + Book
-- C:  3
+- C: 3
 - I: 6
 - A: 5
 - L: 2

@@ -1,6 +1,6 @@
 # Gunner - M
 
-Factions: Brotherhood of Steel
+Factions: Railroad
 - Strength: min 5
 - Perception: 4
 - Endurance: min 5

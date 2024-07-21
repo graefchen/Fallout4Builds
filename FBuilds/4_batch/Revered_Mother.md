@@ -1,6 +1,6 @@
 # Revered Mother - F
 
-Factions:
+Factions: Minuteman
 - Strength: 3
 - Perception: min 2
 - Endurance: 3  
