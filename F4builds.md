@@ -4,7 +4,7 @@
 1. Femme Fatale, Robot Man, The Hermit, Mad Woman
 2. Special Ops, The Empress, Armored Maniac, General Artillery
 3. Nomad, Sweetheart, Knight, Vault Girl
-4. Gunner, Revered Mother, Metal Bitch
+4. Gunner, Revered Mother, Metal Bitch, Doctor
 
 # The Builds:
 
@@ -29,4 +29,4 @@
 | Gunner            | Male   | Railroad             | Metal Armor            | Heavy Weapons     | Loud      |
 | Reverend Mother   | Female | Minuteman            | Shadowed Leather Armor | Supressed Rifles  | Stealth   |
 | Metal Bitch       | Female | Brotherhood of Steel | Power Armor            | Rifles            | Loud      |
-| ???               | Male   | Institute            | ???                    | ???               | ???       |
+| Doctor            | Male   | Institute            | Ballistic Lab Coat     | Pistols           | Loud      |
