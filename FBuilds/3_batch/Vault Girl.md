@@ -14,7 +14,7 @@ possible starting stats:
 - P: 4
 - E: 5 + Book
 - C: 3
-- I: 6
+- I: 7
 - A: 5
 - L: 2
 Weapons: Pistols

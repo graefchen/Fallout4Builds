@@ -13,10 +13,10 @@ possible starting stats:
 - S: 3
 - P: 3
 - E: 3
-- C: 5 + Book
+- C: 6 + Book
 - I: 9
 - A: 2
 - L: 2
 Weapons: Energy Pistols
 Armor: Ballistic Lab Coat
-Playstyle: Load
+Playstyle: Loud
