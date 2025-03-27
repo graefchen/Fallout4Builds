@@ -1,3 +1,6 @@
+# Ignore layout
 layout.md
+#  Ignore Readme
 README.md
+# Ignore all the Builds
 FBuilds/**/*.md

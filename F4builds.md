@@ -1,6 +1,6 @@
 # The Batches:
 
-0. The Mother, Survivo, Paladin, The Tribes Chief
+0. The Mother, Survivor, Paladin, The Tribes Chief
 1. Femme Fatale, Robot Man, The Hermit, Mad Woman
 2. Special Ops, The Empress, Armored Maniac, General Artillery
 3. Nomad, Sweetheart, Knight, Vault Girl
@@ -12,7 +12,7 @@
 | ----------------- | ------ | -------------------- | ---------------------- | ----------------- | --------- |
 | The Mother        | Female | Minuteman            | Power Armor            | Rifle             | Loud      |
 | Survivor          | Male   | Railroad             | Shadowed Combat Armor  | Supressed Rifle   | Stealth   |
-| Paladin           | Female | Institute            | Power Armor            | Rifle             | Loud      |
+| Paladin           | Female | Brotherhood of Steel | Power Armor            | Rifle             | Loud      |
 | The Tribes Chief  | Male   | Institute            | Leather Armor          | Supressed Sniper  | Stealth   |
 | Femme Fatale      | Female | Railroad             | Ballistic Clothes      | Supressed Pistols | Stealth   |
 | Robot Man         | Male   | Institute            | Power Armor            | Automatic         | Loud      |
