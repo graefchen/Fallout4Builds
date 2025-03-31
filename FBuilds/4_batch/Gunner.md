@@ -1,6 +1,11 @@
 # Gunner - M
 
-Factions: Railroad
+## Faction
+
+Railroad
+
+## SPECIAL
+
 - Strength: min 5
 - Perception: 4
 - Endurance: min 5
@@ -9,14 +14,24 @@ Factions: Railroad
 - Agility: max 5
 - Luck: min 2
 
-possible starting stats:
+### possible starting stats
+
 - S: 5 + Book
 - P: 4
 - E: 5
 - C: 3
 - I: 4
-- A: 5 
+- A: 5
 - L: 2
-Weapons: Heavy Weapons
-Armor: Metal Armor
-Playstyle: Loud
+
+## Weapons
+
+Heavy Weapons
+
+## Armor
+
+Metal Armor
+
+## Playstyle
+
+Loud

@@ -1,6 +1,11 @@
 # Metal Bitch - F
 
-Factions: Brotherhood of Steel
+## Faction
+
+Brotherhood of Steel
+
+## SPECIAL
+
 - Strength: 3
 - Perception: min 2
 - Endurance: 1
@@ -9,7 +14,8 @@ Factions: Brotherhood of Steel
 - Agility: 1
 - Luck: 2
 
-possible starting stats:
+### possible starting stats
+
 - S: 3
 - P: 2
 - E: 5
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 9
 - A: 4
 - L: 2
-Weapons: Rifles / Shotguns
-Armor: Power Armor
-Playstyle: Loud
+
+## Weapons
+
+Rifles / Shotguns
+
+## Armor
+
+Power Armor
+
+## Playstyle
+
+Loud

@@ -1,15 +1,21 @@
 # Doctor - M
 
-Factions: Institute
+## Faction
+
+Institute
+
+## SPECIAL
+
 - Strength: 3
 - Perception: 3
 - Endurance: 3
 - Charisma: min 3
-- Intelligence:  9
+- Intelligence: 9
 - Agility: 2
 - Luck: 2
 
-possible starting stats:
+### possible starting stats
+
 - S: 3
 - P: 3
 - E: 3
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 9
 - A: 2
 - L: 2
-Weapons: Energy Pistols
-Armor: Ballistic Lab Coat
-Playstyle: Loud
+
+## Weapons
+
+Energy Pistols
+
+## Armor
+
+Ballistic Lab Coat
+
+## Playstyle
+
+Loud
