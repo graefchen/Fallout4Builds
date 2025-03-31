@@ -1,6 +1,9 @@
-# *name* - *sex*
+# _name_ - _sex_
 
-Factions:
+## Faction
+
+## SPECIAL
+
 - Strength:
 - Perception:
 - Endurance:
@@ -9,7 +12,8 @@ Factions:
 - Agility:
 - Luck:
 
-possible starting stats:
+### possible starting stats
+
 - S:
 - P:
 - E:
@@ -17,6 +21,9 @@ possible starting stats:
 - I:
 - A:
 - L:
-Weapons:
-Armor:
-Playstyle:
+
+## Weapons
+
+## Armor
+
+## Playstyle
