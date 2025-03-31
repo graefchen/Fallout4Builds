@@ -4,7 +4,7 @@
 
 Railroad
 
-## SPECIAl
+## SPECIAL
 
 - Strength: min 3
 - Perception: min 3
