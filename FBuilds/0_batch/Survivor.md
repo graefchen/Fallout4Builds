@@ -1,6 +1,6 @@
 # Survivor - M
 
-## Factions
+## Faction
 
 Railroad
 

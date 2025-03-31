@@ -1,6 +1,6 @@
 # The Mother - F
 
-## Factions
+## Faction
 
 Minuteman
 

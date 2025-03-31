@@ -1,6 +1,6 @@
 # The Tribes Chief - M
 
-## Factions
+## Faction
 
 Institute
 
