@@ -1,6 +1,11 @@
 # Knight - M
 
-Factions: Brotherhood of Steel
+## Faction
+
+Brotherhood of Steel
+
+## SPECIAL
+
 - Strength: 5-10
 - Perception: 1
 - Endurance: 9
@@ -9,7 +14,8 @@ Factions: Brotherhood of Steel
 - Agility: 4+
 - Luck: 5
 
-possible starting stats:
+### possible starting stats
+
 - S: 5
 - P: 1
 - E: 9
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 1
 - A: 5
 - L: 4 + Book
-Weapons: Melee / Swords
-Armor: Metal Armor
-Playstyle: Loud, Solo
+
+## Weapons
+
+Melee / Swords
+
+## Armor
+
+Metal Armor
+
+## Playstyle
+
+Loud, Solo

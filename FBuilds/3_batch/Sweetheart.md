@@ -1,6 +1,11 @@
 # Sweetheart - F
 
-Factions: Minuteman
+## Faction
+
+Minuteman
+
+## SPECIAL
+
 - Strength: min 6
 - Perception: 1+
 - Endurance: 1 - 4
@@ -9,7 +14,8 @@ Factions: Minuteman
 - Agility: 2 -5
 - Luck: 2
 
-possible starting stats:
+### possible starting stats
+
 - S: 6
 - P: 1 + Book
 - E: 4
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 6
 - A: 1
 - L: 2
-Weapons: Rifles
-Armor: Best Armor
-Playstyle: Heavy Settlement Building with one Settlement for every companion with "House", Romancing every possible Vanilla Companion / Loud
+
+## Weapons
+
+Rifles
+
+## Armor
+
+Best Armor
+
+## Playstyle
+
+Heavy Settlement Building with one Settlement for every companion with "House", Romancing every possible Vanilla Companion / Loud
