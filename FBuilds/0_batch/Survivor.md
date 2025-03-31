@@ -1,6 +1,11 @@
 # Survivor - M
 
-Factions: Railroad
+## Factions
+
+Railroad
+
+## SPECIAL
+
 - Strength:
 - Perception:
 - Endurance:
@@ -9,7 +14,8 @@ Factions: Railroad
 - Agility:
 - Luck:
 
-possible starting stats:
+## possible starting stats
+
 - S: 3
 - P: 4
 - E: 1
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 9
 - A: 7
 - L: 1 + Book
-Weapons: Silent Rifle
-Armor: Shadowed Combat Armor
-Playstyle: Stealth
+
+## Weapons
+
+Silent Rifle
+
+## Armor
+
+Shadowed Combat Armor
+
+## Playstyle
+
+Stealth

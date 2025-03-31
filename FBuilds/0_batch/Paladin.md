@@ -1,6 +1,11 @@
 # Paladin - F
 
-Factions: Brotherhood of Steel
+## Faction
+
+Brotherhood of Steel
+
+## SPECIAL
+
 - Strength:
 - Perception:
 - Endurance:
@@ -9,7 +14,8 @@ Factions: Brotherhood of Steel
 - Agility:
 - Luck:
 
-possible starting stats:
+### possible starting stats
+
 - S: 9
 - P: 3
 - E: 2
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 9
 - A: 1
 - L: 1 + Book
-Weapons: Laser-Rifles
-Armor: Power Armor
-Playstyle: Loud
+
+## Weapons
+
+Laser-Rifles
+
+## Armor
+
+Power Armor
+
+## Playstyle
+
+Loud

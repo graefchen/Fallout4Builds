@@ -1,6 +1,11 @@
 # The Mother - F
 
-Factions: Minuteman
+## Factions
+
+Minuteman
+
+## SPECIAL
+
 - Strength:
 - Perception:
 - Endurance:
@@ -9,7 +14,8 @@ Factions: Minuteman
 - Agility:
 - Luck:
 
-possible starting stats:
+### possible starting stats
+
 - S:3
 - P: 4
 - E: 3
@@ -17,6 +23,15 @@ possible starting stats:
 - I: 9
 - A: 2
 - L: 1 + Book
-Weapons: Rifles
-Armor: Power Armor
-Playstyle: Loud
+
+## Weapons
+
+Rifles
+
+## Armor
+
+Power Armor
+
+## Playstyle
+
+Loud
