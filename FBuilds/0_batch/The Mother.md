@@ -16,7 +16,7 @@ Minuteman
 
 ### possible starting stats
 
-- S:3
+- S: 3
 - P: 4
 - E: 3
 - C: 6
