@@ -21,7 +21,7 @@ Brotherhood of Steel
 - E: 5
 - C: 3
 - I: 9
-- A: 4
+- A: 4 + Book
 - L: 2
 
 ## Weapons

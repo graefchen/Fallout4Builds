@@ -32,9 +32,9 @@
 | Metal Bitch       | Female | Brotherhood of Steel | Power Armor            | Rifles            | Loud      |
 | Doctor            | Male   | Institute            | Ballistic Lab Coat     | Pistols           | Loud      |
 | Builder           | Male   | Minuteman            | Leather Armor          | Supressed Rifles  | Stealth   |
-| Wanderer          | Male   | Brotherhood          | ???                    | ???               | Loud      |
-| ???               | ???    | ???                  | ???                    | ???               | ???       |
-| ???               | ???    | ???                  | ???                    | ???               | ???       |
+| Wanderer          | Male   | Institute            | Mashup                 | Rilfes            | Loud      |
+| Conqueror         | Female | Brotherhood of Steel | Mashup                 | Rifles            | Loud      |
+| Animal's Friend   | Female | Railroad             | Mashup                 | Automatic Weapons | Loud      |
 
 ## The Stats
 
@@ -58,9 +58,9 @@
 |        Vault Girl |   2 |   4 |   5 |   3 |   7 |   5 |   2 |    E |
 |            Gunner |   5 |   4 |   5 |   3 |   4 |   5 |   2 |    S |
 |   Reverend Mother |   3 |   2 |   5 |   3 |   3 |   7 |   5 |    L |
-|       Metal Bitch |   3 |   2 |   5 |   3 |   9 |   4 |   2 |  ??? |
+|       Metal Bitch |   3 |   2 |   5 |   3 |   9 |   4 |   2 |    A |
 |            Doctor |   3 |   3 |   3 |   6 |   9 |   2 |   2 |    C |
 |           Builder |   6 |   2 |   1 |   6 |   3 |   5 |   5 |    A |
-|          Wanderer | ??? | ??? | ??? | ??? | ??? | ??? | ??? |  ??? |
-|               ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |  ??? |
-|               ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |  ??? |
+|          Wanderer |   6 |   3 |   5 |   3 |   1 |   5 |   5 |    E |
+|         Conqueror |   6 |   2 |   2 |   6 |   6 |   5 |   1 |    I |
+|   Animal's Friend |   3 |   1 |   8 |   9 |   1 |   5 |   1 |    L |
