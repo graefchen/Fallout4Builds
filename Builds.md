@@ -5,7 +5,7 @@
 2. Special Ops, The Empress, Armored Maniac, General Artillery
 3. Vagabound, Sweetheart, Knight, Vault Girl
 4. Gunner, Revered Mother, Metal Bitch, Doctor
-5. Builder, Wanderer, ???, ???
+5. Builder, Wanderer, Conquerer, Golden Tongue
 
 # The Builds:
 
@@ -32,9 +32,9 @@
 | Metal Bitch       | Female | Brotherhood of Steel | Power Armor            | Rifles            | Loud      |
 | Doctor            | Male   | Institute            | Ballistic Lab Coat     | Pistols           | Loud      |
 | Builder           | Male   | Minuteman            | Leather Armor          | Supressed Rifles  | Stealth   |
-| Wanderer          | Male   | Institute            | Mashup                 | Rilfes            | Loud      |
+| Wanderer          | Male   | Institute            | Power Armor            | Rilfes            | Loud      |
 | Conqueror         | Female | Brotherhood of Steel | Mashup                 | Rifles            | Loud      |
-| Animal's Friend   | Female | Railroad             | Mashup                 | Automatic Weapons | Loud      |
+| Golden Tongue     | Female | Railroad             | Mashup                 | Pistols           | Loud      |
 
 ## The Stats
 
@@ -61,6 +61,6 @@
 |       Metal Bitch |   3 |   2 |   5 |   3 |   9 |   4 |   2 |    A |
 |            Doctor |   3 |   3 |   3 |   6 |   9 |   2 |   2 |    C |
 |           Builder |   6 |   2 |   1 |   6 |   3 |   5 |   5 |    A |
-|          Wanderer |   6 |   3 |   5 |   3 |   1 |   5 |   5 |    E |
-|         Conqueror |   6 |   2 |   2 |   6 |   6 |   5 |   1 |    I |
-|   Animal's Friend |   3 |   1 |   8 |   9 |   1 |   5 |   1 |    L |
+|          Wanderer |   3 |   3 |   5 |   3 |   9 |   3 |   2 |    E |
+|         Conqueror |   4 |   3 |   3 |   6 |   6 |   5 |   1 |    I |
+|     Golden Tongue |   3 |   1 |   8 |   9 |   5 |   1 |   1 |    I |

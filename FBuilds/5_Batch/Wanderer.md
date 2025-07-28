@@ -6,32 +6,32 @@ Institute
 
 ## SPECIAL
 
-- Strength: min 6
-- Perception: 2
-- Endurance: 5
-- Charisma: 3
-- Intelligence: 1
-- Agility: min 5
-- Luck: min 5
+- Strength: min 3
+- Perception: 5
+- Endurance: 1
+- Charisma: 4
+- Intelligence: 9
+- Agility: min 2
+- Luck: min 7
 
 ### possible starting stats
 
-- S: 6
-- P: 3
-- E: 5 + Book
-- C: 3
-- I: 1
-- A: 5
+- S: 3
+- P: 4
+- E: 1
+- C: 4
+- I: 9
+- A: 1 + Book
 - L: 5
 
 ## Weapons
 
-Rilfes
+Automatic Laser Rifle
 
 ## Armor
 
-Mashup
+Power Armor
 
 ## Playstyle
 
-Loud & runnin' runnin' runnin'
+Loud & with Armored Dogmeat
