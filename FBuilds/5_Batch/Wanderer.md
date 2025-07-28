@@ -7,22 +7,22 @@ Institute
 ## SPECIAL
 
 - Strength: min 3
-- Perception: 5
-- Endurance: 1
-- Charisma: 4
+- Perception: min 2
+- Endurance: min 1
+- Charisma: 3
 - Intelligence: 9
-- Agility: min 2
-- Luck: min 7
+- Agility: 1
+- Luck: max 2
 
 ### possible starting stats
 
 - S: 3
-- P: 4
-- E: 1
-- C: 4
+- P: 3
+- E: 5 + Book
+- C: 3
 - I: 9
-- A: 1 + Book
-- L: 5
+- A: 3
+- L: 2
 
 ## Weapons
 
