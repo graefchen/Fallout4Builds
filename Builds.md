@@ -32,7 +32,7 @@
 | Metal Bitch       | Female | Brotherhood of Steel | Power Armor            | Rifles            | Loud      |
 | Doctor            | Male   | Institute            | Ballistic Lab Coat     | Pistols           | Loud      |
 | Builder           | Male   | Minuteman            | Leather Armor          | Supressed Rifles  | Stealth   |
-| Wanderer          | Male   | Institute            | Power Armor            | Rilfes            | Loud      |
+| Sole Survivor     | Male   | Institute            | Power Armor            | Rilfes            | Loud      |
 | Conqueror         | Female | Brotherhood of Steel | Mashup                 | Rifles            | Loud      |
 | Golden Tongue     | Female | Railroad             | Mashup                 | Pistols           | Loud      |
 
@@ -61,6 +61,6 @@
 |       Metal Bitch |   3 |   2 |   5 |   3 |   9 |   4 |   2 |    A |
 |            Doctor |   3 |   3 |   3 |   6 |   9 |   2 |   2 |    C |
 |           Builder |   6 |   2 |   1 |   6 |   3 |   5 |   5 |    A |
-|          Wanderer |   3 |   3 |   5 |   3 |   9 |   3 |   2 |    E |
+|     Sole Survivor |   3 |   3 |   5 |   3 |   9 |   3 |   2 |    E |
 |         Conqueror |   4 |   3 |   3 |   6 |   6 |   5 |   1 |    I |
 |     Golden Tongue |   3 |   1 |   8 |   9 |   5 |   1 |   1 |    I |
